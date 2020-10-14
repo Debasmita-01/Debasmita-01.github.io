@@ -64,7 +64,7 @@ body {
 }
 .typing > *{
   overflow: hidden;
- 
+  white-space: nowrap;
   animation: typingAnim 5s steps(50);
 }
 .typing > *::after{
