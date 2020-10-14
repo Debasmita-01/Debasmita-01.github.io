@@ -30,8 +30,7 @@
 ## Sections 📚
 <!--✔️ About me\
 ✔️ Experience\ -->
-✔️ Projects \  
-<!--✔️ Skills \ -->
+✔️ Projects <!--✔️ Skills \ --> \
 ✔️ Education\
 ✔️ Contact Me\
 ✔️ Resume
