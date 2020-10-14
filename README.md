@@ -15,7 +15,7 @@
 :star: Star me on GitHub — it helps!
 
 ## Features 📋
-⚡️ Fully Responsive\
+<!--⚡️ Fully Responsive -->
 ⚡️ Valid HTML5 & CSS3\
 ⚡️ Typing animation using CSS \
 ⚡️ Easy to modify
